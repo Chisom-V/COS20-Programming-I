@@ -1,9 +1,9 @@
 # COS 201 - Computer Programming I
 
 ## Student Details
-- **Name:** Kelvin  Gabriel Ukpong
-- **Matriculation Number:** 25/17314
-- **Programme:** Computer Science
+- **Name:** Ayezuba Chisom
+- **Matriculation Number:** 25/17926
+- **Programme:** Cyber Security
 - **Course Code:** COS201
 
 ---

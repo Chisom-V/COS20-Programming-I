@@ -9,6 +9,6 @@ public class FirstProgram {
         System.out.println("3. Drives problem-solving and algorithmic thinking.");
         
         System.out.println("\n--- Personal Goal ---");
-        System.out.println("Goal: Master core Java mechanics and build clean, scalable applications.");
+        System.out.println("Goal: Become a greate cyber security analsyt and prevent cyber attacks.");
     }
 }
